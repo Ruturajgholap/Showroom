@@ -1,0 +1,22 @@
+
+
+
+.mainheading h1
+{
+    text-align: center;
+    color: rgb(255, 7, 7);
+    
+}
+.loginform
+{
+    background-color: beige;
+    padding: 20px;
+   padding-left: 100px;
+}
+.loginbtn
+{
+    padding-left: 80px;
+
+}
+
+
